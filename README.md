@@ -10,7 +10,13 @@
 - Instagram: <https://www.instagram.com/pridiuksson>  
 - Twitter: <https://x.com/pridiuksson>  
 
-## Two PR Review Systems: Code Review Agent vs E2E QA.tech Agent
+## Problems:
+* Do we want to ship straight to live?
+* Why cannot we just do it?
+* What is a normal velocity of a bug-to-live for you?
+* What is an believable/aimed velocity?
+
+## Our Solution: Two PR Review Systems: Code Review Agent vs E2E QA.tech Agent
 
 | Dimension          | Does the code look well?                       | Does the product actually work?                                 |
 | ------------------ | ---------------------------------------------- | --------------------------------------------------------------- |
